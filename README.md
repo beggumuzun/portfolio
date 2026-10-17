@@ -1,17 +1,15 @@
 # Portfolio
 
-My personal portfolio page — built with HTML while learning web development.
+My personal portfolio website, built with HTML and CSS.
+
+**Live site:** https://beggumuzun.github.io/portfolio/
 
 ## About
-I'm Begum, a Computer Science student at UWE Bristol, passionate about front-end development.
+
+I'm Begum, a second-year Computer Science student at UWE Bristol, seeking a 2027–28 placement.
 
 ## Built with
+
 - HTML
-
-## What's next
-- Add CSS for styling
-- Learn JavaScript to make it interactive
-
-## Contact
-- [GitHub](https://github.com/beggumuzun)
-- [LinkedIn](https://www.linkedin.com/in/begum-uzun)
+- CSS
+- Hosted with GitHub Pages
